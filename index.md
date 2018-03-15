@@ -49,7 +49,7 @@ print(head(traits))
 
 At this point it would be a good idea to include an image of what the plot is meant to look like so people can check they've done it right. Replace `IMAGE_NAME.png` with your own image file:
 
-<center> <img src="{{ site.baseurl }}/trait_correlation.png" alt="Img" style="width: 800px;"/> </center>
+[img](trait_correlation.png)
 
 This is the end of the tutorial. Here is a summary of what we learned:
 
